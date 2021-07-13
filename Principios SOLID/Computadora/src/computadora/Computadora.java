@@ -11,11 +11,20 @@ package computadora;
  */
 public class Computadora {
 
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
+    private ITeclado teclado;
+    private IMouse mouse;
+
+    public Computadora(ITeclado teclado, IMouse mouse) {
+
+        this.teclado = teclado;
+        this.mouse = mouse;
+
     }
-    
+
+    public void encender() {
+
+        this.teclado.conectar();
+        this.mouse.conectar();
+
+    }
 }
