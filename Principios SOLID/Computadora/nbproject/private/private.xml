@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/elmer/Desktop/Ejecicios%20java-design-patterns/Computadora/src/computadora/Computadora.java</file>
+            <file>file:/C:/Users/elmer/Desktop/Codigo%20Facilito/Curso%20Patrones%20diseno/Principios%20SOLID/Computadora/src/computadora/Computadora.java</file>
+            <file>file:/C:/Users/elmer/Desktop/Codigo%20Facilito/Curso%20Patrones%20diseno/Principios%20SOLID/Computadora/src/computadora/Mouse.java</file>
+            <file>file:/C:/Users/elmer/Desktop/Codigo%20Facilito/Curso%20Patrones%20diseno/Principios%20SOLID/Computadora/src/computadora/Teclado.java</file>
+            <file>file:/C:/Users/elmer/Desktop/Codigo%20Facilito/Curso%20Patrones%20diseno/Principios%20SOLID/Computadora/src/computadora/Main.java</file>
+            <file>file:/C:/Users/elmer/Desktop/Codigo%20Facilito/Curso%20Patrones%20diseno/Principios%20SOLID/Computadora/src/computadora/ITeclado.java</file>
+            <file>file:/C:/Users/elmer/Desktop/Codigo%20Facilito/Curso%20Patrones%20diseno/Principios%20SOLID/Computadora/src/computadora/IComponente.java</file>
+            <file>file:/C:/Users/elmer/Desktop/Codigo%20Facilito/Curso%20Patrones%20diseno/Principios%20SOLID/Computadora/src/computadora/IMouse.java</file>
         </group>
     </open-files>
 </project-private>
